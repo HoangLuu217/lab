@@ -88,5 +88,5 @@ public class Bill {
         return "Bill{" + "invoiceCode=" + invoiceCode + ", bookCode=" + bookCode + ", employeeCode=" + employeeCode + ", time=" + time + ", unitPrice=" + unitPrice + ", salaryAmount=" + salaryAmount + ", status=" + status + '}';
     }
 //dddd
-
+//hhhss
 }
